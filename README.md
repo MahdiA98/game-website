@@ -25,8 +25,10 @@ To play the game, proceed to the Game page and initiate it by clicking on START 
 In order to register a new user, go to the accounts page and click on the Register button. When complete, or the user has an exisiting account, they are able to login with the correct credentials.  
 
 ## Technology
-HTML and CSS was used to create the foundation and styling of the websites.
-JavaScript was used for the database aspects, including the login and registration, as well as the high scores. 
-PHP was used to minimise code repetition and increase modularity. This was mainly applied for the head and footer tags, as they remained constant throughout each subsequent page. 
+* HTML and CSS was used to create the foundation and styling of the websites.
+
+* JavaScript was used for the database aspects, including the login and registration, as well as the high scores. 
+
+* PHP was used to minimise code repetition and increase modularity. This was mainly applied for the head and footer tags, as they remained constant throughout each subsequent page. 
 
 ## Screenshots
