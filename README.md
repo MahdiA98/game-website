@@ -33,7 +33,7 @@ Login functionalities are also provided, with the use of the browser's local and
 - [JavaScript](https://www.javascript.com/)
 - [PHP](https://www.php.net/)
 
-## Screenshots
+## 📷 Screenshots <a name = "screenshots"></a>
 <h3> Home Page </h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67860821/199343567-27e85075-1413-4e82-871c-76183f387907.png">
